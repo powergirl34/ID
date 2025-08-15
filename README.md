@@ -22,3 +22,21 @@ Proje Amacı Nedir? : Bu projenin amacı iklim değişikliğinin oluşturduğu o
 ## 🧰 Kullanılan Araçlar ve Teknolojiler:
 * Vs Code: Python kodu yazma ortamı.
 * Python: Görüntü işleme ve model entegrasyonu.
+
+## Projemin türü:
+> Web Uygulaması
+
+## Kullanacağım kütüphaneler:
+- Flask
+- render_template
+- request
+- redirect
+- url_for
+- jsonify
+
+## İşe yarayabilecek referanslar:
+- Tarım Bakanlığı
+- İklim Değişikliği Başkanlığı
+
+## Geliştirme sırasında bana yardımcı olabilecek kılavuz kaynaklar
+"C:\Users\hp\Desktop\HESAPLAYICI" [Daha önce yazdığım ev verimliliği hesaplayıcı]
