@@ -12,6 +12,7 @@ Proje Amacı Nedir? : Bu projenin amacı iklim değişikliğinin oluşturduğu o
 * Vs Code kullanılarak kod yazımı gerçekleştirilir.
 * Python , HTML , css kullanılır.
 * Görsel kullanılarak kullanıcıya güven sağlanır.
+* Google Whısk kullanılarak web sitesinde daha havalı görğntüler elde edilir.
 
 ## ➡️Modelin Kullanımı:
 * Kullanıcıdan bağış yapması istenir.
