@@ -1,17 +1,17 @@
 # 🌅🌅CLIMATE CHANGE (İKLİM DEĞİŞİKLİĞİ)🌅🌅
 
-Proje Amacı Nedir? : Bu projenin amacı iklim değişikliğinin oluşturduğu olumsuz etkileri azaltmaktır. Ağaç dikilmesine katkı sunar, ağaç dikimi için alınan ücretten artan bütçe çifçilere doğal gübre olarak verilir tarım ilaçlarının kullanılmasını azaltır.
+Proje Amacı Nedir? : Bu projenin amacı iklim değişikliğinin oluşturduğu olumsuz etkileri azaltmak ve doğal besine ulaşabilmektir. Ağaç dikilmesine katkı sunar, kullanıcıdan alınan bağışın %40'ı ağaç dikimi için kullanılır %60'ı çifçilere doğal gübre olarak verilir tarım ilaçlarının kullanılmasını azaltır.
 
 ## 🔎Nasıl Çalışır?
 * Kullanıcı bağış yapar.
-* Bağışlarla ilk olarak ağaç dikimi gerçekleştirilir.
-* Kalan bağışlarla çiftçiye doğal gübre desteği sağlanır.
-* Kullanıcıya bağışının ulaşması gerektiği yere fotoğraf, teşekkür mesajı gönderilir.
+* Bağışların %40 ile ağaç dikimi gerçekleştirilir.
+* Bağışların %60'I ile çiftçiye doğal gübre desteği sağlanır.
+* Kullanıcının yaptığı bağışın çevresel etkisi gösterilir.
+* Kullanıcıya teşekkür mesajı gönderilir.
 
 ## ↻Model Eğitimi:
 * Vs Code kullanılarak kod yazımı gerçekleştirilir.
 * Python , HTML , css kullanılır.
-* Görsel kullanılarak kullanıcıya güven sağlanır.
 * Google Whısk kullanılarak web sitesinde daha havalı görğntüler elde edilir.
 
 ## ➡️Modelin Kullanımı:
